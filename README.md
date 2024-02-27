@@ -3,7 +3,7 @@
 #Sales Overview
 ![Screenshot 2024-02-26 203956](https://github.com/Etiram-Hasratov/Sales-Report/assets/115147838/8ae3777f-51f1-4b9b-bb35-66000c0c70cc)
 
-#Customers Overview
+#Customer Overview
 ![Screenshot 2024-02-26 204029](https://github.com/Etiram-Hasratov/Sales-Report/assets/115147838/c33cd487-d881-4563-ba71-f9e2ad372a1e)
 
 #Products Overview
